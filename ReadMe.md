@@ -1,3 +1,6 @@
+# neralie
+A simple clock for the Neralie decimal time format.
+
 This repo is hosted at https://gitea.tangentfox.com/tools/neralie
 and force-pushed to https://github.com/TangentFoxy/neralie when commits are made.
 
